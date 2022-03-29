@@ -12,7 +12,7 @@
         3. Escenarios de calidad
   - Funcionalidades criticas
   - Restricciones Técnicas
-  - Restricciones de negocio
+  - Restricciones de negocio.
   
 - **Modelado De Dominio** [[Modelado-de-Dominio]]
 - **Arquitectura De Referencia** [[Arquitectura-Referencia]]
