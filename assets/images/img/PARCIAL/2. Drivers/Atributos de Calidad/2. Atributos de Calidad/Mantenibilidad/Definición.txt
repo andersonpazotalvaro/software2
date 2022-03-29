@@ -1,0 +1,3 @@
+Mantenibilidad
+
+Facilidad del sistema para incorporar los combios por nueva funcionalidad o para corrección de errores

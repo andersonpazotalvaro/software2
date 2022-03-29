@@ -1,0 +1,3 @@
+Confiabilidad = Reliabiliy
+
+Capacidad del sistema para permanecer operativo a lo largo del tiempo, brindando información correcta y relevante
